@@ -1,0 +1,18 @@
+name = "Rust Berlin on Location"
+description = "Informal in-person Rust meetup group in Berlin"
+
+[meta]
+includes = [ "_timezones.toml" ]
+
+[[events]]
+uid = "1779370424441"
+title = "Rust Berlin on Location"
+description = "Informal in-person Rust meetup group in Berlin"
+location = "Ferrous Systems & Slint & KDAB, Wallstraße 59, 10179 Berlin"
+last_modified_on = "2026-05-21T09:00:00.00Z"
+start = { date = "2026-03-19T19:00:00.00", timezone = "Europe/Berlin" }
+end = { date = "2026-03-19T22:00:00.00", timezone = "Europe/Berlin" }
+status = "confirmed"
+transparency = "opaque"
+recurrence_rules = [ { frequency = "monthly" } ]
+
