@@ -3,5 +3,6 @@ description = "All events of Rust Berlin"
 
 [meta]
 includes = [
-  "hack-and-learn.toml"
+  "hack-and-learn.toml",
+  "berlin-talks.toml"
 ]

@@ -1,0 +1,18 @@
+name = "Rust Berlin Talks"
+description = "Rust talks"
+
+[meta]
+includes = [ "_timezones.toml" ]
+
+[[events]]
+uid = "1779352764642"
+name = "Rust Berlin Talks"
+description = "Rust talks"
+location = "JetBrains GmbH, 53 Cuvrystraße, Berlin"
+last_modified_on = "2026-05-21T09:00:00.00Z"
+start = { date = "2026-05-29T19:00:00.00", timezone = "Europe/Berlin" }
+end = { date = "2026-05-29T22:00:00.00", timezone = "Europe/Berlin" }
+status = "confirmed"
+transparency = "opaque"
+recurrence_rules = [ { frequency = "weekly", interval = 2 } ]
+

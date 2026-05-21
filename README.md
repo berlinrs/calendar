@@ -14,6 +14,7 @@ Below are links to the `ics` files for all the current calendars in this reposit
 
 * [All](https://berlinrs.github.io/calendar/all.ics)
   * [Rust Hack and Learn](https://berlinrs.github.io/calendar/hack-and-learn.ics)
+  * [Rust Berlin Talks](https://berlinrs.github.io/calendar/berlin-talks.ics)
 
 You can copy these links and import them into your calendar application of choice.
 
